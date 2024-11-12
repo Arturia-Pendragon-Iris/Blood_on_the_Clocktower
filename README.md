@@ -1,4 +1,4 @@
-# Blood_on_the_Clocktower (Xueran ZHonglou)
+# Blood on the Clocktower (Xueran ZHonglou)
 This is a public repository for Blood on the Clocktower. We offer a program that randomly arranges roles for three scripts: 
 Sects & Violets, Bad Moon Rising, and The Devil's Advocate.
 我们为血染钟楼提供了一个程序来随机安排三个剧本的角色，包括暗流涌动，黯月初升，教派紫罗兰。
