@@ -1,4 +1,4 @@
-# Blood on the Clocktower (Xueran Zhonglou)
+# Blood on the Clocktower (血染钟楼)
 This is a public repository for Blood on the Clocktower. We offer a program that randomly arranges roles for three scripts: 
 Sects & Violets, Bad Moon Rising, and Trouble Brewing.
 
